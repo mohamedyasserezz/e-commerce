@@ -36,7 +36,9 @@ build/
 target/
 
 # VS Code settings
-.vscode/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
 
 # Mac system files
 .DS_Store
